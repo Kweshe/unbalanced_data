@@ -1,5 +1,5 @@
-# Health risk prediction with unbalanced data
-This paper compares the performance of classification and clustering techniques when applied to unbalanced data. 
+# Health risk prediction with imbalanced data
+This paper compares the performance of classification and clustering techniques when applied to imbalanced data. 
 
 # Abstract 
 Time is an important variable in the treatment of many diseases. Owing the development of data mining techniques, the time to diagnosis can be shortened by using predictive models that identify individuals at risk in the early stages of disease development. In this logic, this paper found that Gradient Boost is powerful to deal with health data that are often imbalanced, with a weighted recall 0.95. Besides, unsupervised clustering has been applied to the same data with moderate results.  
